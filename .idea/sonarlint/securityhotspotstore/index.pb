@@ -19,3 +19,5 @@ _
 /src/main/java/hy/pxiplimit/message/Message.java,5\e\5e37dfd4439633dd75aea8aab1accefc80cb21c7
 b
 2src/main/java/hy/pxiplimit/message/MessageKey.java,f\6\f6d8cf3ed8cb261320bcc5130c222e33f3653364
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4

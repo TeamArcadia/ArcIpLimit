@@ -1,13 +1,25 @@
 
-J
-java:S54113"(Use a primitive boolean expression here.(‰é£«ûÿÿÿÿ8Ìã¥û¶1
-J
-java:S54119"(Use a primitive boolean expression here.(ĞÈíúÿÿÿÿ8Íã¥û¶1
-E
-java:S5411Z"(Use a primitive boolean expression here.(ºÓŠ€8Íã¥û¶1
-[
-java:S3516"9Refactor this method to not always return the same value.(š’‹™ûÿÿÿÿ8µä¥û¶1
 t
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(š’‹™ûÿÿÿÿ8»ä¥û¶1
+U
+java:S1874+"3Remove this use of "sendMessage"; it is deprecated.(²¡Û“ùÿÿÿÿ8Åşƒ“·1
+P
+java:S18745"3Remove this use of "sendMessage"; it is deprecated.(›¯ç„8Çşƒ“·1
+U
+java:S1874<"3Remove this use of "sendMessage"; it is deprecated.(²¡Û“ùÿÿÿÿ8Çşƒ“·1
+U
+java:S1874C"3Remove this use of "sendMessage"; it is deprecated.(²¡Û“ùÿÿÿÿ8Éşƒ“·1
+U
+java:S1874J"3Remove this use of "sendMessage"; it is deprecated.(éƒü³ûÿÿÿÿ8Êşƒ“·1
+U
+java:S1874L"3Remove this use of "sendMessage"; it is deprecated.(î»÷™üÿÿÿÿ8Ëşƒ“·1
+U
+java:S1874Q"3Remove this use of "sendMessage"; it is deprecated.( å¢˜ùÿÿÿÿ8Ìşƒ“·1
+P
+java:S1874V"3Remove this use of "sendMessage"; it is deprecated.(™™ä·8Îşƒ“·1
+P
+java:S1874`"3Remove this use of "sendMessage"; it is deprecated.(‰Úî—8Ïşƒ“·1
+U
+java:S1874w"3Remove this use of "sendMessage"; it is deprecated.(²¡Û“ùÿÿÿÿ8Ôşƒ“·1
 è
 java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 21 to 14, Nesting Level from 3 to 2, Number of Variables from 17 to 6.(š’‹™ûÿÿÿÿ8Ñä¥û¶1

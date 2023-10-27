@@ -19,3 +19,5 @@ l
 <src/main/java/hy/pxiplimit/listener/PlayerLoginListener.java,4\0\40d4cc5c89b70a0058db8e8ff5888700a416ea5f
 b
 2src/main/java/hy/pxiplimit/message/MessageKey.java,f\6\f6d8cf3ed8cb261320bcc5130c222e33f3653364
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
