@@ -20,7 +20,8 @@ public enum MessageKey {
     SET_IP_LIMIT_SUCCESSFUL("main.set_ip_limit_successful"),
     NEED_INT_VALUE("main.need_int_value"),
     IP_LIMIT_ON("main.ip_limit_on"),
-    IP_LIMIT_OFF("main.ip_limit_off");
+    IP_LIMIT_OFF("main.ip_limit_off"),
+    CAN_NOT_FIND_PLAYER("can_not_find_player");
 
 
 
