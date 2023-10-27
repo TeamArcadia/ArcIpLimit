@@ -93,7 +93,7 @@ public class IpLimitCmd implements CommandExecutor {
                 Player checkedPlayer = Bukkit.getPlayerExact(playerName);
 
                 if (checkedPlayer == null) {
-                    player.sendMessage(msgData.getMessage(MessageKey.CAN_NOT_FIND_PLAYER));
+                    player.sendMessage(msgData.getMessage(MessageKey.CANT_FIND_PLAYER));
                     return false;
                 }
 
