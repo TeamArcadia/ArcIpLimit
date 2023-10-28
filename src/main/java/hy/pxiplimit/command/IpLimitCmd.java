@@ -26,7 +26,6 @@ public class IpLimitCmd implements CommandExecutor {
         this.plugin = plugin;
     }
 
-
     public boolean onCommand(@NotNull CommandSender sender, @NotNull Command command, @NotNull String label, @NotNull String[] args) {
 
         Message msgData = Message.getInstance();
@@ -37,7 +36,6 @@ public class IpLimitCmd implements CommandExecutor {
         }
 
         Player player = (Player) sender;
-
 
         if (args.length == 0) {
             player.sendMessage(msgData.getMessage(MessageKey.WRONG_COMMAND));
@@ -119,7 +117,6 @@ public class IpLimitCmd implements CommandExecutor {
                 player.sendMessage(msgData.getMessage(MessageKey.WRONG_COMMAND));
                 return false;
             }
-
         }
         return false;
     }

@@ -11,7 +11,6 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class IpLimitCmdTab implements TabCompleter {
@@ -47,7 +46,6 @@ public class IpLimitCmdTab implements TabCompleter {
                     playerNames.add(players[i].getName());
                 }
                 return playerNames;
-
             }
         } else if (args.length == 3) {
             if ("iplimit".equalsIgnoreCase(args[0]) && "set".equalsIgnoreCase(args[1])) {
