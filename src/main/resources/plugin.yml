@@ -1,4 +1,4 @@
-name: PXIpLimit
+name: ArcIpLimit
 version: '${version}'
 main: hy.pxiplimit.PXIpLimit
 api-version: '1.16'
